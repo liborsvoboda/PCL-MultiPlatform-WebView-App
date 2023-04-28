@@ -1,0 +1,10 @@
+﻿html, body {
+    margin: 0px;
+    text-align: center;
+    background: url('background.jpg');
+    background-size: cover;
+}
+
+body, p, h1 {
+    font-family: 'Roboto';
+}
